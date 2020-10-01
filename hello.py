@@ -1,3 +1,4 @@
+#1일차 시작
 # 변수, 자료형, 조건분, 반복문, 기타 라이브러리
 
 #변수
@@ -100,3 +101,4 @@ for thumbnail in thumbnails :
     dload.save(img,f'imgs_homework/{i}.jpg')
     i+=1
 driver.quit()
+#1일차 끝
